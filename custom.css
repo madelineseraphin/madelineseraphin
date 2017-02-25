@@ -121,6 +121,11 @@ a:hover {
         width: 50%;
         margin-right: 50%;
     }
+
+    .biggerleft {
+        width: 75%;
+        margin-right: 25%;
+    }
 }
 
 @media (max-width: 767px) {
@@ -135,8 +140,13 @@ a:hover {
     }
 
     .left {
-        width: 75%;
-        margin-right: 25%;
+        width: 85%;
+        margin-right: 15%;
+    }
+
+    .biggerleft {
+        width: 85%;
+        margin-right: 15%;
     }
 }
 
