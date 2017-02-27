@@ -170,10 +170,3 @@ a:hover {
 .icon:hover {
   filter: grayscale(0%);
 }
-
-.thing1 {
-    background-image: url("thing1.jpg");
-}
-.thing1:hover {
-    background-image: url("thing1alt.jpg");
-}
